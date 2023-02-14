@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome To My GitHub Profile -
-<--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on project management.
@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mdranaali720@gmail.com
 - 😄 Pronouns: He/His
 
--->
+
