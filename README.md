@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome To My GitHub Profile -
 
-Here are some ideas to get you started:
+#### Here are some of my details:
 
 - 🔭 I’m currently working on project management.
 - 🌱 I’m currently learning others work.
